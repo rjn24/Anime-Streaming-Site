@@ -6,3 +6,4 @@ BCA(Sci) 2nd Year Project
 #go to phpmyadmin and create database named "loginsystem"
 import the database loginsystem 
 
+The  Documentation is named as "Project Synopsis Anime Streaming Site"
